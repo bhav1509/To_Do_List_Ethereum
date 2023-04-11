@@ -19,7 +19,11 @@
     "chai-bignumber": "^2.0.2",
     "lite-server": "^2.3.0",
     "nodemon": "^1.17.3",
-    "truffle": "5.0.2",
+    "truffle": "^5.8.2",
     "truffle-contract": "3.0.6"
+  },
+  "dependencies": {
+    "web3": "1.0.0-beta.35",
+    "websocket": "github:frozeman/WebSocket-Node#master"
   }
 }

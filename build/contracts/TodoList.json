@@ -2708,12 +2708,13 @@
         }
       },
       "links": {},
-      "address": "0x3b715f9F1B0f02d67272ad1c2521158080de8391",
-      "transactionHash": "0x21a0aa4c567a96cd105158e42e7bef69d902dce426cd3c775d2cf7386edc1616"
+      "address": "0xf39F64807897DF0c12F3AA746a45193728fcA42F",
+      "transactionHash": "0xe396781efcfb08e8c06f81c20caef517ee9476673e8cbd6fadc29ee9ee481de7"
     }
   },
   "schemaVersion": "3.4.13",
-  "updatedAt": "2023-04-10T12:49:08.624Z",
+  "updatedAt": "2023-04-10T16:43:53.403Z",
+  "networkType": "ethereum",
   "devdoc": {
     "methods": {}
   },
